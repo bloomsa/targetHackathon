@@ -7,6 +7,8 @@ faq infomation
     location
     hours
 
+we need a privacy policy to launch on facebook (for demo)
+    can use this https://www.freeprivacypolicy.com/privacy/view/9f0a336c82bf07317abf67f5ae7cf6ff
 
 future looking: exploring other platform bots
 
