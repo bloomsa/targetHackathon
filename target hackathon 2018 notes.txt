@@ -1,0 +1,14 @@
+Target facebook chatbot
+
+using dialogflow, 
+
+faq infomation
+    returns
+    location
+    hours
+
+
+future looking: exploring other platform bots
+
+
+describe behavior, tell a story
